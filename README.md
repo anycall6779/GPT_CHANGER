@@ -1,4 +1,4 @@
-# ChatGPT Team Plan 링크 생성기
+#  링크 생성기
 
 국가와 프로모션 코드를 선택하면 ChatGPT Team Plan 결제 스크립트를 자동으로 만들어주는 도구입니다.
 
@@ -16,13 +16,12 @@
 2. **Settings → Pages** 메뉴로 이동
 3. **Source**: `Deploy from a branch` 선택
 4. **Branch**: `main` / `(root)` 선택 후 **Save**
-5. 잠시 후 `https://<username>.github.io/<repo>/` 에서 확인 가능
 
 ## 사용 방법
 
 1. 사이트에서 국가, 프로모션 코드, 좌석 수를 설정
 2. **스크립트 생성하기** 버튼 클릭
-3. `chatgpt.com` 에 로그인한 상태에서 개발자 도구(F12) → Console 탭 열기
+3. `` 에 로그인한 상태에서 개발자 도구(F12) → Console 탭 열기
 4. 생성된 스크립트를 붙여넣고 Enter
 
 ## 지원 국가
